@@ -2,11 +2,13 @@ package com.gosaint.service.impl;
 
 import java.util.List;
 
+import com.gosaint.core.mapper.ProductMapper;
 import com.gosaint.core.query.BaseQuery;
 import com.gosaint.core.utils.Page;
 import com.gosaint.domain.Product;
 import com.gosaint.service.IProductService;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 /**
@@ -17,6 +19,10 @@ import org.springframework.stereotype.Service;
  */
 @Service
 public class ProductServiceImpl implements IProductService{
+    /** 商品dao层接口依赖*/
+    @Autowired
+    private ProductMapper mapper;
+
     public void save(final Product o) {
 
     }
