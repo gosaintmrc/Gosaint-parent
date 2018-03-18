@@ -12,6 +12,8 @@
         <module>Gosaint-core-config</module>
         <module>Gosaint-core-domain</module>
         <module>Gosaint-core-dao</module>
+        <module>Gosaint-service-base</module>
+        <module>Gosaint-core-commonAPI</module>
     </modules>
 
 </project>

@@ -6,16 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Gosaint-core-commonAPI" />
         <module name="Gosaint-core-config" />
         <module name="Gosaint-core-dao" />
         <module name="Gosaint-core-domain" />
+        <module name="Gosaint-service-base" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Gosaint-core-commonAPI" target="1.5" />
       <module name="Gosaint-core-config" target="1.5" />
       <module name="Gosaint-core-dao" target="1.5" />
       <module name="Gosaint-core-domain" target="1.5" />
       <module name="Gosaint-parent" target="1.5" />
+      <module name="Gosaint-service-base" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
