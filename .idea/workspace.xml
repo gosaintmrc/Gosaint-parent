@@ -2,139 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc7c264e-3055-4172-a69c-ff899b9936ba" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Gosaint-core-commonAPI/src/main/java/com/gosaint/core/common/base/impl/BaseServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/VIP.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/VIPcar.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/cashier.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/css/VIP.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/css/VIPcar.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/css/cashier.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/css/enter.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/css/indent.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/css/index.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/css/login.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/css/product.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/css/product_list.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/css/public.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/css/reset.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/css/shopingcar.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/enter.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/font/font_1451959379_8626566.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/font/font_1451959379_8626566.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/font/font_1451959379_8626566.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/font/font_1451959379_8626566.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/474.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/8zhe.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/LOGO.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/QR_code.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/banner1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/banner2.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/banner3.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/banner4.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/banner5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/banner6.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/bgicon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/big.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/big_plus.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/book-min.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/car.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/delIcon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/demo-centerPic-B.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/demo-common-right-big.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/demo-common-right-small.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/demo-cp01.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/demo-ebook.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/demo-pop.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/dianchiCon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/ebookLeft.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/fix_box_icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/footer_bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/goumai.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/gouwuche.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/home.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/icon1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/icon2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/icon_u_worth_1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/icon_u_worth_2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/images/Clearing_01.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/images/Clearing_02.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/images/Clearing_03.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/images/Clearing_04.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/indentLOGO.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/jiaju.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/jieshao1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/jieshao2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/jieshao3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/jingrong.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/libao.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/logo13_11.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/logo13_12.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/logo13_13.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/logo13_14.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/logo13_15.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/logo13_16.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/logo13_17.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/logo13_18.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/logo13_19.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/logo_00.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/logo_enter.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/logoduhaoshu.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/logozhuce.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/m.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/menulist.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/nav.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/phone.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/qianggou.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/red1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/red2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/red3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/redright.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/renwen.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/renwu.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/shoping.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/shouqi.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/show.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/tejia4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/tequan.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/tequan1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/title.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/top.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/top_focus_lucky_1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/top_focus_lucky_1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/toptouxiang.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/two_32.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/vip_center.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/xianliang.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/xingxing.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/xingxing2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/xuanzhong.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/xunzhang.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/youhui.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/indent.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/VIP.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/VIPcar.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/cashier.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/common.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/enter.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/indent.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/jquery-1.11.0.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/login.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/product.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/product_list.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/public.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/shopingcar.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/tyslide.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/js/webSite.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/login.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/product.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/product_list.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/shopingcar.html" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Gosaint-service-base/Gosaint-service-base.iml" afterPath="$PROJECT_DIR$/Gosaint-service-base/Gosaint-service-base.iml" />
+      <change beforePath="$PROJECT_DIR$/Gosaint-service-base/pom.xml" afterPath="$PROJECT_DIR$/Gosaint-service-base/pom.xml" />
       <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -144,6 +17,10 @@
     <ignored path="$PROJECT_DIR$/Gosaint-core-dao/target/" />
     <ignored path="$PROJECT_DIR$/Gosaint-service-base/target/" />
     <ignored path="$PROJECT_DIR$/Gosaint-core-commonAPI/target/" />
+    <ignored path="$PROJECT_DIR$/Gosaint-web-plat/target/" />
+    <ignored path="$PROJECT_DIR$/Gosaint-facade-base/target/" />
+    <ignored path="$PROJECT_DIR$/Gosaint-service-product/target/" />
+    <ignored path="$PROJECT_DIR$/Gosaint-service-common/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -165,164 +42,121 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="spring-mybatis.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gosaint-core-dao/src/main/resources/spring-mybatis.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2016">
-              <caret line="48" column="49" lean-forward="false" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserMapper.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gosaint-core-dao/target/classes/com.gosaint.core.mapper/UserMapper.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="4" column="53" lean-forward="false" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
-              <folding>
-                <marker date="1521348793080" expanded="true" signature="380:419" ph="SELECT * FRO... t_user" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserMapper.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gosaint-core-dao/src/main/resources/com.gosaint.core.mapper/UserMapper.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="7" column="36" lean-forward="false" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-              <folding>
-                <marker date="1521345548339" expanded="true" signature="397:436" ph="SELECT * FRO... emp" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gosaint-service-base/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="7" column="39" lean-forward="false" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+            <state relative-caret-position="378">
+              <caret line="15" column="38" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductCenterService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gosaint-facade-base/src/main/java/com/gosaint/facade/ProductCenterService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="14" column="15" lean-forward="false" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dubbo-common-service.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gosaint-facade-base/src/main/resources/dubbo-common-service.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="188">
+              <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gosaint-core-commonAPI/pom.xml">
+        <entry file="file://$PROJECT_DIR$/Gosaint-service-common/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="630">
+              <caret line="30" column="21" lean-forward="false" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BaseMapper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gosaint-core-commonAPI/src/main/java/com/gosaint/core/common/base/BaseMapper.java">
+      <file leaf-file-name="CommonService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gosaint-facade-base/src/main/java/com/gosaint/facade/CommonService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
-              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="336">
+              <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommonServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gosaint-service-common/src/main/java/com/gosaint/common/facade/impl/CommonServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="502">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gosaint-service-product/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="546">
+              <caret line="16" column="33" lean-forward="false" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gosaint-service-product/src/main/java/com/gosaint/service/impl/ProductServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="376">
+              <caret line="18" column="59" lean-forward="false" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#722#723#0" expanded="true" />
+                <element signature="e#749#750#0" expanded="true" />
+                <element signature="e#801#802#0" expanded="true" />
+                <element signature="e#825#826#0" expanded="true" />
+                <element signature="e#882#883#0" expanded="true" />
+                <element signature="e#909#910#0" expanded="true" />
+                <element signature="e#970#971#0" expanded="true" />
+                <element signature="e#997#998#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BaseServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gosaint-core-commonAPI/src/main/java/com/gosaint/core/common/base/impl/BaseServiceImpl.java">
+      <file leaf-file-name="ProductCenterServiceImpl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gosaint-service-product/src/main/java/com/gosaint/service/facade/impl/ProductCenterServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+            <state relative-caret-position="418">
+              <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#500#501#0" expanded="true" />
-                <element signature="e#535#536#0" expanded="true" />
-                <element signature="e#574#575#0" expanded="true" />
-                <element signature="e#613#614#0" expanded="true" />
-                <element signature="e#654#655#0" expanded="true" />
-                <element signature="e#692#693#0" expanded="true" />
-                <element signature="e#729#730#0" expanded="true" />
-                <element signature="e#766#767#0" expanded="true" />
-                <element signature="e#807#808#0" expanded="true" />
-                <element signature="e#848#849#0" expanded="true" />
-                <element signature="e#883#884#0" expanded="true" />
-                <element signature="e#925#926#0" expanded="true" />
-                <element signature="e#977#978#0" expanded="true" />
-                <element signature="e#1029#1030#0" expanded="true" />
-                <element signature="e#1080#1081#0" expanded="true" />
-                <element signature="e#1127#1128#0" expanded="true" />
+                <element signature="e#488#489#0" expanded="true" />
+                <element signature="e#515#516#0" expanded="true" />
+                <element signature="e#585#586#0" expanded="true" />
+                <element signature="e#612#613#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BaseQuery.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gosaint-core-commonAPI/src/main/java/com/gosaint/core/query/BaseQuery.java">
+      <file leaf-file-name="IProductService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gosaint-service-product/src/main/java/com/gosaint/service/IProductService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="882">
-              <caret line="27" column="15" lean-forward="false" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
-              <folding>
-                <element signature="e#476#477#0" expanded="true" />
-                <element signature="e#516#517#0" expanded="true" />
-                <element signature="e#544#545#0" expanded="true" />
-                <element signature="e#571#572#0" expanded="true" />
-                <element signature="e#614#615#0" expanded="true" />
-                <element signature="e#646#647#0" expanded="true" />
-                <element signature="e#674#675#0" expanded="true" />
-                <element signature="e#701#702#0" expanded="true" />
-                <element signature="e#744#745#0" expanded="true" />
-                <element signature="e#776#777#0" expanded="true" />
-                <element signature="e#807#808#0" expanded="true" />
-                <element signature="e#834#835#0" expanded="true" />
-                <element signature="e#880#881#0" expanded="true" />
-                <element signature="e#912#913#0" expanded="true" />
-                <element signature="e#944#945#0" expanded="true" />
-                <element signature="e#972#973#0" expanded="true" />
-                <element signature="e#1020#1021#0" expanded="true" />
-                <element signature="e#1054#1055#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IBaseService.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Gosaint-core-commonAPI/src/main/java/com/gosaint/core/common/base/IBaseService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="670">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="376">
+              <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Page.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gosaint-core-commonAPI/src/main/java/com/gosaint/core/utils/Page.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="25" column="73" lean-forward="false" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="73" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#700#701#0" expanded="true" />
-                <element signature="e#727#728#0" expanded="true" />
-                <element signature="e#774#775#0" expanded="true" />
-                <element signature="e#806#807#0" expanded="true" />
-                <element signature="e#835#836#0" expanded="true" />
-                <element signature="e#863#864#0" expanded="true" />
-                <element signature="e#908#909#0" expanded="true" />
-                <element signature="e#942#943#0" expanded="true" />
-                <element signature="e#973#974#0" expanded="true" />
-                <element signature="e#1003#1004#0" expanded="true" />
-                <element signature="e#1052#1053#0" expanded="true" />
-                <element signature="e#1090#1091#0" expanded="true" />
-                <element signature="e#1122#1123#0" expanded="true" />
-                <element signature="e#1153#1154#0" expanded="true" />
-                <element signature="e#1204#1205#0" expanded="true" />
-                <element signature="e#1244#1245#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -333,8 +167,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
+        <option value="spring-beans.schema" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -370,6 +205,17 @@
         <option value="$PROJECT_DIR$/Gosaint-core-commonAPI/src/main/java/com/gosaint/core/query/BaseQuery.java" />
         <option value="$PROJECT_DIR$/Gosaint-core-commonAPI/src/main/java/com/gosaint/core/utils/Page.java" />
         <option value="$PROJECT_DIR$/Gosaint-core-commonAPI/src/main/java/com/gosaint/core/common/base/impl/BaseServiceImpl.java" />
+        <option value="$PROJECT_DIR$/Gosaint-facade-base/pom.xml" />
+        <option value="$PROJECT_DIR$/Gosaint-core-domain/src/main/java/com/gosaint/domain/Product.java" />
+        <option value="$PROJECT_DIR$/Gosaint-facade-base/src/main/java/com/gosaint/facade/ProductCenterService.java" />
+        <option value="$PROJECT_DIR$/Gosaint-service-base/pom.xml" />
+        <option value="$PROJECT_DIR$/Gosaint-service-product/pom.xml" />
+        <option value="$PROJECT_DIR$/Gosaint-service-product/src/main/java/com/gosaint/service/IProductService.java" />
+        <option value="$PROJECT_DIR$/Gosaint-service-product/src/main/java/com/gosaint/service/impl/ProductServiceImpl.java" />
+        <option value="$PROJECT_DIR$/Gosaint-service-common/pom.xml" />
+        <option value="$PROJECT_DIR$/Gosaint-service-common/src/main/java/com/gosaint/common/facade/impl/CommonServiceImpl.java" />
+        <option value="$PROJECT_DIR$/Gosaint-facade-base/src/main/resources/dubbo-common-service.xml" />
+        <option value="$PROJECT_DIR$/Gosaint-service-product/src/main/java/com/gosaint/service/facade/impl/ProductCenterServiceImpl.java" />
       </list>
     </option>
   </component>
@@ -720,25 +566,68 @@
             <path>
               <item name="Gosaint-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="Gosaint-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Gosaint-core-commonAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="Gosaint-facade-base" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Gosaint-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="Gosaint-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Gosaint-core-commonAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="Gosaint-facade-base" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Gosaint-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="Gosaint-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Gosaint-core-commonAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="Gosaint-facade-base" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Gosaint-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="Gosaint-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Gosaint-core-commonAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="Gosaint-facade-base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gosaint-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gosaint-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Gosaint-facade-base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="facade" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gosaint-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gosaint-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Gosaint-facade-base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gosaint-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gosaint-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Gosaint-service-common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gosaint-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gosaint-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Gosaint-service-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gosaint-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gosaint-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Gosaint-service-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gosaint-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gosaint-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Gosaint-service-common" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -746,41 +635,101 @@
             <path>
               <item name="Gosaint-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="Gosaint-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Gosaint-core-commonAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="Gosaint-service-common" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Gosaint-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="Gosaint-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Gosaint-core-commonAPI" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="Gosaint-service-product" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Gosaint-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="Gosaint-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Gosaint-core-commonAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="Gosaint-service-product" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="query" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Gosaint-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="Gosaint-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="Gosaint-core-commonAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="Gosaint-service-product" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gosaint-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gosaint-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Gosaint-service-product" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gosaint-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gosaint-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Gosaint-service-product" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gosaint-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gosaint-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Gosaint-service-product" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gosaint-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gosaint-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Gosaint-service-product" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gosaint-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gosaint-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Gosaint-web-plat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gosaint-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gosaint-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Gosaint-web-plat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gosaint-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gosaint-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Gosaint-web-plat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gosaint-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gosaint-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Gosaint-web-plat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gosaint-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gosaint-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="Gosaint-web-plat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -805,6 +754,9 @@
     <property name="Repository.Attach.Sources" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.gosaint.domain" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Users\gosaint\IdeaProjects\Gosaint-parent\static" />
       <recent name="D:\Users\gosaint\IdeaProjects\Gosaint-parent\Gosaint-core-dao\src\main\java\com\gosaint\core\mapper" />
@@ -924,7 +876,7 @@
       <workItem from="1521286279674" duration="2561000" />
       <workItem from="1521289216722" duration="1796000" />
       <workItem from="1521344380272" duration="7870000" />
-      <workItem from="1521356739462" duration="734000" />
+      <workItem from="1521356739462" duration="8883000" />
     </task>
     <servers />
   </component>
@@ -961,10 +913,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12961000" />
+    <option name="totallyTimeSpent" value="21110000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -979,23 +932,25 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TCPMON" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.04400978" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35691145" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35691145" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Reviews" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40365854" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1011,150 +966,11 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Gosaint-service-base/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="7" column="39" lean-forward="false" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gosaint-core-commonAPI/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gosaint-core-commonAPI/src/main/java/com/gosaint/core/common/base/BaseMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gosaint-core-commonAPI/src/main/java/com/gosaint/core/query/BaseQuery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-          <folding>
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#516#517#0" expanded="true" />
-            <element signature="e#544#545#0" expanded="true" />
-            <element signature="e#571#572#0" expanded="true" />
-            <element signature="e#614#615#0" expanded="true" />
-            <element signature="e#646#647#0" expanded="true" />
-            <element signature="e#674#675#0" expanded="true" />
-            <element signature="e#701#702#0" expanded="true" />
-            <element signature="e#744#745#0" expanded="true" />
-            <element signature="e#776#777#0" expanded="true" />
-            <element signature="e#807#808#0" expanded="true" />
-            <element signature="e#834#835#0" expanded="true" />
-            <element signature="e#880#881#0" expanded="true" />
-            <element signature="e#912#913#0" expanded="true" />
-            <element signature="e#944#945#0" expanded="true" />
-            <element signature="e#972#973#0" expanded="true" />
-            <element signature="e#1020#1021#0" expanded="true" />
-            <element signature="e#1054#1055#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gosaint-core-commonAPI/src/main/java/com/gosaint/core/common/base/IBaseService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="882">
-          <caret line="24" column="14" lean-forward="false" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gosaint-core-commonAPI/src/main/java/com/gosaint/core/utils/Page.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1134">
-          <caret line="29" column="35" lean-forward="false" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#700#701#0" expanded="true" />
-            <element signature="e#727#728#0" expanded="true" />
-            <element signature="e#774#775#0" expanded="true" />
-            <element signature="e#806#807#0" expanded="true" />
-            <element signature="e#835#836#0" expanded="true" />
-            <element signature="e#863#864#0" expanded="true" />
-            <element signature="e#908#909#0" expanded="true" />
-            <element signature="e#942#943#0" expanded="true" />
-            <element signature="e#973#974#0" expanded="true" />
-            <element signature="e#1003#1004#0" expanded="true" />
-            <element signature="e#1052#1053#0" expanded="true" />
-            <element signature="e#1090#1091#0" expanded="true" />
-            <element signature="e#1122#1123#0" expanded="true" />
-            <element signature="e#1153#1154#0" expanded="true" />
-            <element signature="e#1204#1205#0" expanded="true" />
-            <element signature="e#1244#1245#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gosaint-core-domain/src/main/java/com/gosaint/domain/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gosaint-core-config/src/main/resources/log4j2.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gosaint-core-dao/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5628">
-          <caret line="134" column="20" lean-forward="true" selection-start-line="134" selection-start-column="20" selection-end-line="134" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gosaint-core-dao/src/main/resources/spring-mybatis.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1680">
-          <caret line="40" column="30" lean-forward="true" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gosaint-core-dao/src/main/java/com/gosaint/core/mapper/UserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gosaint-core-dao/src/test/java/com/gosaint/daotest/DaoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="23" column="14" lean-forward="false" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gosaint-core-config/src/main/resources/jdbc.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="2" column="3" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Gosaint-core-domain/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1234,6 +1050,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1241,6 +1058,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3150">
           <caret line="75" column="27" lean-forward="false" selection-start-line="75" selection-start-column="27" selection-end-line="75" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1271,6 +1089,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1285,6 +1104,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1032">
           <caret line="134" column="0" lean-forward="false" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1327,13 +1147,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -1377,14 +1190,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gosaint-service-base/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="7" column="39" lean-forward="false" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Gosaint-core-commonAPI/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1398,23 +1203,23 @@
         <state relative-caret-position="377">
           <caret line="25" column="73" lean-forward="false" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="73" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#700#701#0" expanded="true" />
-            <element signature="e#727#728#0" expanded="true" />
-            <element signature="e#774#775#0" expanded="true" />
-            <element signature="e#806#807#0" expanded="true" />
-            <element signature="e#835#836#0" expanded="true" />
-            <element signature="e#863#864#0" expanded="true" />
-            <element signature="e#908#909#0" expanded="true" />
-            <element signature="e#942#943#0" expanded="true" />
-            <element signature="e#973#974#0" expanded="true" />
-            <element signature="e#1003#1004#0" expanded="true" />
-            <element signature="e#1052#1053#0" expanded="true" />
-            <element signature="e#1090#1091#0" expanded="true" />
-            <element signature="e#1122#1123#0" expanded="true" />
-            <element signature="e#1153#1154#0" expanded="true" />
-            <element signature="e#1204#1205#0" expanded="true" />
-            <element signature="e#1244#1245#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#700#701#0" expanded="false" />
+            <element signature="e#727#728#0" expanded="false" />
+            <element signature="e#774#775#0" expanded="false" />
+            <element signature="e#806#807#0" expanded="false" />
+            <element signature="e#835#836#0" expanded="false" />
+            <element signature="e#863#864#0" expanded="false" />
+            <element signature="e#908#909#0" expanded="false" />
+            <element signature="e#942#943#0" expanded="false" />
+            <element signature="e#973#974#0" expanded="false" />
+            <element signature="e#1003#1004#0" expanded="false" />
+            <element signature="e#1052#1053#0" expanded="false" />
+            <element signature="e#1090#1091#0" expanded="false" />
+            <element signature="e#1122#1123#0" expanded="false" />
+            <element signature="e#1153#1154#0" expanded="false" />
+            <element signature="e#1204#1205#0" expanded="false" />
+            <element signature="e#1244#1245#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1424,24 +1229,24 @@
         <state relative-caret-position="882">
           <caret line="27" column="15" lean-forward="false" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
           <folding>
-            <element signature="e#476#477#0" expanded="true" />
-            <element signature="e#516#517#0" expanded="true" />
-            <element signature="e#544#545#0" expanded="true" />
-            <element signature="e#571#572#0" expanded="true" />
-            <element signature="e#614#615#0" expanded="true" />
-            <element signature="e#646#647#0" expanded="true" />
-            <element signature="e#674#675#0" expanded="true" />
-            <element signature="e#701#702#0" expanded="true" />
-            <element signature="e#744#745#0" expanded="true" />
-            <element signature="e#776#777#0" expanded="true" />
-            <element signature="e#807#808#0" expanded="true" />
-            <element signature="e#834#835#0" expanded="true" />
-            <element signature="e#880#881#0" expanded="true" />
-            <element signature="e#912#913#0" expanded="true" />
-            <element signature="e#944#945#0" expanded="true" />
-            <element signature="e#972#973#0" expanded="true" />
-            <element signature="e#1020#1021#0" expanded="true" />
-            <element signature="e#1054#1055#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="false" />
+            <element signature="e#516#517#0" expanded="false" />
+            <element signature="e#544#545#0" expanded="false" />
+            <element signature="e#571#572#0" expanded="false" />
+            <element signature="e#614#615#0" expanded="false" />
+            <element signature="e#646#647#0" expanded="false" />
+            <element signature="e#674#675#0" expanded="false" />
+            <element signature="e#701#702#0" expanded="false" />
+            <element signature="e#744#745#0" expanded="false" />
+            <element signature="e#776#777#0" expanded="false" />
+            <element signature="e#807#808#0" expanded="false" />
+            <element signature="e#834#835#0" expanded="false" />
+            <element signature="e#880#881#0" expanded="false" />
+            <element signature="e#912#913#0" expanded="false" />
+            <element signature="e#944#945#0" expanded="false" />
+            <element signature="e#972#973#0" expanded="false" />
+            <element signature="e#1020#1021#0" expanded="false" />
+            <element signature="e#1054#1055#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1451,23 +1256,23 @@
         <state relative-caret-position="378">
           <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-            <element signature="e#535#536#0" expanded="true" />
-            <element signature="e#574#575#0" expanded="true" />
-            <element signature="e#613#614#0" expanded="true" />
-            <element signature="e#654#655#0" expanded="true" />
-            <element signature="e#692#693#0" expanded="true" />
-            <element signature="e#729#730#0" expanded="true" />
-            <element signature="e#766#767#0" expanded="true" />
-            <element signature="e#807#808#0" expanded="true" />
-            <element signature="e#848#849#0" expanded="true" />
-            <element signature="e#883#884#0" expanded="true" />
-            <element signature="e#925#926#0" expanded="true" />
-            <element signature="e#977#978#0" expanded="true" />
-            <element signature="e#1029#1030#0" expanded="true" />
-            <element signature="e#1080#1081#0" expanded="true" />
-            <element signature="e#1127#1128#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#500#501#0" expanded="false" />
+            <element signature="e#535#536#0" expanded="false" />
+            <element signature="e#574#575#0" expanded="false" />
+            <element signature="e#613#614#0" expanded="false" />
+            <element signature="e#654#655#0" expanded="false" />
+            <element signature="e#692#693#0" expanded="false" />
+            <element signature="e#729#730#0" expanded="false" />
+            <element signature="e#766#767#0" expanded="false" />
+            <element signature="e#807#808#0" expanded="false" />
+            <element signature="e#848#849#0" expanded="false" />
+            <element signature="e#883#884#0" expanded="false" />
+            <element signature="e#925#926#0" expanded="false" />
+            <element signature="e#977#978#0" expanded="false" />
+            <element signature="e#1029#1030#0" expanded="false" />
+            <element signature="e#1080#1081#0" expanded="false" />
+            <element signature="e#1127#1128#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1475,19 +1280,159 @@
     <entry file="file://$PROJECT_DIR$/Gosaint-core-commonAPI/src/main/java/com/gosaint/core/common/base/BaseMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="452">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gosaint-core-commonAPI/src/main/java/com/gosaint/core/common/base/IBaseService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="670">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="502">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gosaint-web-plat/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-252">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="12" column="36" lean-forward="false" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gosaint-web-plat/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gosaint-facade-base/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="25" column="20" lean-forward="false" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gosaint-core-domain/src/main/java/com/gosaint/domain/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gosaint-service-base/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="15" column="38" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gosaint-service-product/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="16" column="33" lean-forward="false" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gosaint-service-product/src/main/java/com/gosaint/service/impl/ProductServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="18" column="59" lean-forward="false" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#722#723#0" expanded="true" />
+            <element signature="e#749#750#0" expanded="true" />
+            <element signature="e#801#802#0" expanded="true" />
+            <element signature="e#825#826#0" expanded="true" />
+            <element signature="e#882#883#0" expanded="true" />
+            <element signature="e#909#910#0" expanded="true" />
+            <element signature="e#970#971#0" expanded="true" />
+            <element signature="e#997#998#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gosaint-service-product/src/main/java/com/gosaint/service/IProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gosaint-facade-base/src/main/java/com/gosaint/facade/ProductCenterService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="14" column="15" lean-forward="false" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gosaint-service-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="30" column="21" lean-forward="false" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gosaint-facade-base/src/main/java/com/gosaint/facade/CommonService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gosaint-service-common/src/main/java/com/gosaint/common/facade/impl/CommonServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gosaint-facade-base/src/main/resources/dubbo-common-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gosaint-service-product/src/main/java/com/gosaint/service/facade/impl/ProductCenterServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#515#516#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+            <element signature="e#612#613#0" expanded="true" />
           </folding>
         </state>
       </provider>

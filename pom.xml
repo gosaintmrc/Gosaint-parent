@@ -14,6 +14,10 @@
         <module>Gosaint-core-dao</module>
         <module>Gosaint-service-base</module>
         <module>Gosaint-core-commonAPI</module>
+        <module>Gosaint-web-plat</module>
+        <module>Gosaint-facade-base</module>
+        <module>Gosaint-service-product</module>
+        <module>Gosaint-service-common</module>
     </modules>
 
 </project>

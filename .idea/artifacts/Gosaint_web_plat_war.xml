@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Gosaint-web-plat:war">
+    <output-path>$PROJECT_DIR$/Gosaint-web-plat/target</output-path>
+    <root id="archive" name="Gosaint-web-plat.war">
+      <element id="artifact" artifact-name="Gosaint-web-plat:war exploded" />
+    </root>
+  </artifact>
+</component>

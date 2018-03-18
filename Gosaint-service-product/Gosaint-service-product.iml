@@ -16,6 +16,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Gosaint-service-base" />
     <orderEntry type="module" module-name="Gosaint-facade-base" />
     <orderEntry type="module" module-name="Gosaint-core-commonAPI" />
     <orderEntry type="module" module-name="Gosaint-core-domain" />

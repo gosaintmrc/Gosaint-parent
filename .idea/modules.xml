@@ -6,8 +6,12 @@
       <module fileurl="file://$PROJECT_DIR$/Gosaint-core-config/Gosaint-core-config.iml" filepath="$PROJECT_DIR$/Gosaint-core-config/Gosaint-core-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/Gosaint-core-dao/Gosaint-core-dao.iml" filepath="$PROJECT_DIR$/Gosaint-core-dao/Gosaint-core-dao.iml" />
       <module fileurl="file://$PROJECT_DIR$/Gosaint-core-domain/Gosaint-core-domain.iml" filepath="$PROJECT_DIR$/Gosaint-core-domain/Gosaint-core-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gosaint-facade-base/Gosaint-facade-base.iml" filepath="$PROJECT_DIR$/Gosaint-facade-base/Gosaint-facade-base.iml" />
       <module fileurl="file://$PROJECT_DIR$/Gosaint-parent.iml" filepath="$PROJECT_DIR$/Gosaint-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/Gosaint-service-base/Gosaint-service-base.iml" filepath="$PROJECT_DIR$/Gosaint-service-base/Gosaint-service-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gosaint-service-common/Gosaint-service-common.iml" filepath="$PROJECT_DIR$/Gosaint-service-common/Gosaint-service-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gosaint-service-product/Gosaint-service-product.iml" filepath="$PROJECT_DIR$/Gosaint-service-product/Gosaint-service-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gosaint-web-plat/Gosaint-web-plat.iml" filepath="$PROJECT_DIR$/Gosaint-web-plat/Gosaint-web-plat.iml" />
     </modules>
   </component>
 </project>

@@ -10,16 +10,24 @@
         <module name="Gosaint-core-config" />
         <module name="Gosaint-core-dao" />
         <module name="Gosaint-core-domain" />
+        <module name="Gosaint-facade-base" />
         <module name="Gosaint-service-base" />
+        <module name="Gosaint-service-common" />
+        <module name="Gosaint-service-product" />
+        <module name="Gosaint-web-plat" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="1.8">
       <module name="Gosaint-core-commonAPI" target="1.5" />
       <module name="Gosaint-core-config" target="1.5" />
       <module name="Gosaint-core-dao" target="1.5" />
       <module name="Gosaint-core-domain" target="1.5" />
+      <module name="Gosaint-facade-base" target="1.5" />
       <module name="Gosaint-parent" target="1.5" />
       <module name="Gosaint-service-base" target="1.5" />
+      <module name="Gosaint-service-common" target="1.5" />
+      <module name="Gosaint-service-product" target="1.5" />
+      <module name="Gosaint-web-plat" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
