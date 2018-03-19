@@ -13,5 +13,5 @@
     <!--监控中心配置，用于配置连接监控中心相关信息，可选。-->
     <dubbo:monitor protocol="registry"/>
     <!--该接口的具体实现者-->
-    <dubbo:annotation package="com.gosaint.common.facade.impl"/>
+    <dubbo:annotation package="com.gosaint.common.facade.impl,com.gosaint.service.impl"/>
 </beans>
