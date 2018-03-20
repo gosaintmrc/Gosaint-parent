@@ -11,14 +11,30 @@
 
     <artifactId>Gosaint-service-product</artifactId>
     <dependencies>
+
         <dependency>
             <groupId>com.gosaint</groupId>
-            <artifactId>Gosaint-service-base</artifactId>
+            <artifactId>Gosaint-core-domain</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>com.gosaint</groupId>
+            <artifactId>Gosaint-core-commonAPI</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-beans</artifactId>
+            <version>4.3.14.RELEASE</version>
+        </dependency>
+        <dependency>
+            <groupId>com.gosaint</groupId>
             <artifactId>Gosaint-core-dao</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>com.gosaint</groupId>
+            <artifactId>Gosaint-facade-base</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>

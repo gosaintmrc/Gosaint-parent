@@ -16,9 +16,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="Gosaint-core-config" />
-    <orderEntry type="module" module-name="Gosaint-core-commonAPI" />
     <orderEntry type="module" module-name="Gosaint-facade-base" />
+    <orderEntry type="module" module-name="Gosaint-core-commonAPI" />
     <orderEntry type="module" module-name="Gosaint-core-domain" />
     <orderEntry type="library" name="Maven: com.alibaba:dubbo:2.8.4a" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-beans:4.1.2.RELEASE" level="project" />

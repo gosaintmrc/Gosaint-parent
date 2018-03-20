@@ -2,11 +2,13 @@ package com.gosaint.service.impl;
 
 import java.util.List;
 
+import com.gosaint.core.mapper.UserMapper;
 import com.gosaint.core.query.BaseQuery;
 import com.gosaint.core.utils.Page;
 import com.gosaint.domain.User;
 import com.gosaint.service.IUserService;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 /**
@@ -17,6 +19,8 @@ import org.springframework.stereotype.Service;
  */
 @Service
 public class UserServiceImpl implements IUserService {
+    @Autowired
+    private UserMapper mapper;
     public void save(final User o) {
 
     }
@@ -38,7 +42,7 @@ public class UserServiceImpl implements IUserService {
     }
 
     public User get(final Long id) {
-        return null;
+        return mapper.findEmployeeById(id);
     }
 
     public int queryTotal(final BaseQuery query) {

@@ -3,6 +3,7 @@ package com.gosaint.service.impl;
 import java.util.List;
 
 import com.gosaint.core.mapper.ProductMapper;
+import com.gosaint.core.mapper.UserMapper;
 import com.gosaint.core.query.BaseQuery;
 import com.gosaint.core.utils.Page;
 import com.gosaint.domain.Product;
@@ -22,6 +23,9 @@ public class ProductServiceImpl implements IProductService{
     /** 商品dao层接口依赖*/
     @Autowired
     private ProductMapper mapper;
+    /** 测试依赖，可以删除*/
+    @Autowired
+    private UserMapper userMapper;
 
     public void save(final Product o) {
 

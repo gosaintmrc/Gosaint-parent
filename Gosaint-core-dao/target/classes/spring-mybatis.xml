@@ -37,7 +37,7 @@
         <property name="dataSource" ref="dataSource" />
         <!-- 配置mybatis的映射器的路径 -->
         <property name="mapperLocations"
-                  value="classpath:com.gosaint.core.mapper/*.xml" />
+                  value="com.gosaint.core.mapper/*.xml" />
         <!-- 配置需要取类型别名的包名; -->
         <property name="typeAliasesPackage" value="com.gosaint.domain" />
     </bean>
