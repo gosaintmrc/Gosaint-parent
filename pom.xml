@@ -18,6 +18,7 @@
         <module>Gosaint-facade-base</module>
         <module>Gosaint-service-product</module>
         <module>Gosaint-service-common</module>
+        <module>Gosaint-web-base</module>
     </modules>
 
 </project>

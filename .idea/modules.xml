@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/Gosaint-service-base/Gosaint-service-base.iml" filepath="$PROJECT_DIR$/Gosaint-service-base/Gosaint-service-base.iml" />
       <module fileurl="file://$PROJECT_DIR$/Gosaint-service-common/Gosaint-service-common.iml" filepath="$PROJECT_DIR$/Gosaint-service-common/Gosaint-service-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/Gosaint-service-product/Gosaint-service-product.iml" filepath="$PROJECT_DIR$/Gosaint-service-product/Gosaint-service-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gosaint-web-base/Gosaint-web-base.iml" filepath="$PROJECT_DIR$/Gosaint-web-base/Gosaint-web-base.iml" />
       <module fileurl="file://$PROJECT_DIR$/Gosaint-web-plat/Gosaint-web-plat.iml" filepath="$PROJECT_DIR$/Gosaint-web-plat/Gosaint-web-plat.iml" />
     </modules>
   </component>

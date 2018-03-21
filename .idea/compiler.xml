@@ -14,6 +14,7 @@
         <module name="Gosaint-service-base" />
         <module name="Gosaint-service-common" />
         <module name="Gosaint-service-product" />
+        <module name="Gosaint-web-base" />
         <module name="Gosaint-web-plat" />
       </profile>
     </annotationProcessing>
@@ -27,6 +28,7 @@
       <module name="Gosaint-service-base" target="1.5" />
       <module name="Gosaint-service-common" target="1.5" />
       <module name="Gosaint-service-product" target="1.5" />
+      <module name="Gosaint-web-base" target="1.5" />
       <module name="Gosaint-web-plat" target="1.5" />
     </bytecodeTargetLevel>
   </component>

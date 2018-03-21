@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Gosaint-web-base:war">
+    <output-path>$PROJECT_DIR$/Gosaint-web-base/target</output-path>
+    <root id="archive" name="Gosaint-web-base-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Gosaint-web-base:war exploded" />
+    </root>
+  </artifact>
+</component>
