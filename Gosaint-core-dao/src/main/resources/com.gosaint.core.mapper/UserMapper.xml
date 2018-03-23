@@ -5,7 +5,7 @@
 <mapper namespace="com.gosaint.core.mapper.UserMapper">
     <!--resultType:返回类型：Employee
         id 查询的唯一标识-->
-    <select id="findEmployeeById" resultType="user">
-        SELECT  * FROM  t_user WHERE id = #{id}
+    <select id="get" resultType="user">
+        select * from t_user WHERE id=#{id};
     </select>
 </mapper>

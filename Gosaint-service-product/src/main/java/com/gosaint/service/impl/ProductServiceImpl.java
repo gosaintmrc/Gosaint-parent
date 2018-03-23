@@ -3,12 +3,13 @@ package com.gosaint.service.impl;
 import java.util.List;
 
 import com.gosaint.core.mapper.ProductMapper;
-import com.gosaint.core.mapper.UserMapper;
 import com.gosaint.core.query.BaseQuery;
 import com.gosaint.core.utils.Page;
 import com.gosaint.domain.Product;
 import com.gosaint.service.IProductService;
 
+import org.apache.commons.logging.Log;
+import org.apache.commons.logging.LogFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -20,12 +21,11 @@ import org.springframework.stereotype.Service;
  */
 @Service
 public class ProductServiceImpl implements IProductService{
+
     /** 商品dao层接口依赖*/
     @Autowired
     private ProductMapper mapper;
-    /** 测试依赖，可以删除*/
-    @Autowired
-    private UserMapper userMapper;
+
 
     public void save(final Product o) {
 
@@ -48,7 +48,10 @@ public class ProductServiceImpl implements IProductService{
     }
 
     public Product get(final Long id) {
-        return null;
+        System.out.println("====================");
+        Product product = mapper.get(id);
+        System.out.println("================="+product);
+        return product;
     }
 
     public int queryTotal(final BaseQuery query) {
@@ -61,5 +64,10 @@ public class ProductServiceImpl implements IProductService{
 
     public Page<Product> queryPage(final BaseQuery query) {
         return null;
+    }
+
+    public Product findProductById(final Long id) {
+        System.out.println("===============");
+        return mapper.findProductById(id);
     }
 }

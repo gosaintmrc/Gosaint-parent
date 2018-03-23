@@ -2,10 +2,9 @@
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <!--namespace:命名空间,映射类的唯一标识符-->
-<mapper namespace="com.gosaint.core.mapper.UserMapper">
-    <!--resultType:返回类型：Employee
-        id 查询的唯一标识-->
-    <select id="get" resultType="user">
-        select * from t_user WHERE id=#{id};
+<mapper namespace="com.gosaint.core.mapper.ProductMapper">
+    <!--查询单个商品-->
+    <select id="get" resultType="product" parameterType="Long">
+         SELECT * FROM  t_product WHERE id = #{id}
     </select>
 </mapper>

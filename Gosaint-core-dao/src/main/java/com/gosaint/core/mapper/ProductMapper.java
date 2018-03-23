@@ -2,6 +2,7 @@ package com.gosaint.core.mapper;
 
 import com.gosaint.core.common.base.BaseMapper;
 import com.gosaint.domain.Product;
+import com.gosaint.domain.User;
 
 /**
  * @Authgor: gosaint
@@ -10,4 +11,5 @@ import com.gosaint.domain.Product;
  * @Modified By:
  */
 public interface ProductMapper extends BaseMapper<Product> {
+    Product findProductById(Long id);
 }

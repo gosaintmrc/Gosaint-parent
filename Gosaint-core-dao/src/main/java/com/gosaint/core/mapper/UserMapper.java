@@ -1,5 +1,6 @@
 package com.gosaint.core.mapper;
 
+import com.gosaint.core.common.base.BaseMapper;
 import com.gosaint.domain.User;
 
 /**
@@ -8,7 +9,7 @@ import com.gosaint.domain.User;
  * @Date Created in 19:57 2018/3/17
  * @Modified By:
  */
-public interface UserMapper {
+public interface UserMapper extends BaseMapper<User>{
     /** 查询一个用户*/
     User findEmployeeById(Long id);
 }

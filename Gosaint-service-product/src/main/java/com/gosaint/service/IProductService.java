@@ -10,4 +10,5 @@ import com.gosaint.domain.Product;
  * @Modified By:
  */
 public interface IProductService extends IBaseService<Product>{
+    Product findProductById(Long id);
 }

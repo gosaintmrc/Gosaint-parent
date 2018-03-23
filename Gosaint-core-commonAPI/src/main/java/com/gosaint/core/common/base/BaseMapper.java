@@ -10,7 +10,8 @@ import com.gosaint.core.query.BaseQuery;
  * @Date Created in 14:49 2018/3/18
  * @Modified By:
  */
-public interface BaseMapper<T> {void save(T o);
+public interface BaseMapper<T> {
+    void save(T o);
     void savePart(T o);
     void delete(Long id);
     void update(T o);

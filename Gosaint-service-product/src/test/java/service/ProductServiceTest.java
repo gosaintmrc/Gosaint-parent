@@ -21,16 +21,22 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 @ContextConfiguration(locations = {"classpath:service-product.xml"})
 public class ProductServiceTest {
     @Autowired
-    private IProductService service;
+    private IProductService productService;
     @Autowired
     private IUserService userService;
     @Test
     public void testservice(){
-        Product product = service.get(1L);
+       /* Product product = productService.findProductById(1L);*/
         System.out.println("result");
         User user = userService.get(1L);
-        System.out.println(user);
+        Product product = productService.get(1L);
         System.out.println(product);
+        System.out.println(user);
+
+    }
+
+    @Test
+    public void testGetProduct(){
 
     }
 }

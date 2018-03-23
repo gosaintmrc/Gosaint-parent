@@ -1,6 +1,7 @@
 package com.gosaint.service;
 
 import com.gosaint.core.common.base.IBaseService;
+import com.gosaint.domain.Product;
 import com.gosaint.domain.User;
 
 /**
